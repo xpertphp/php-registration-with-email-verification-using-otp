@@ -1,5 +1,4 @@
 <?php
-session_start();
 if(isset($_POST['btnVerify']))
 {
     include('connection.php');
